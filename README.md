@@ -36,15 +36,6 @@ dependencies:
 
 ## Role Variables
 
-### Configuration templates
-
-|Name|Default|Type|Description|
-|----|-------|----|-----------|
-<skeleton>
-
-
-### Configuration definitions
-
 |Name|Default|Type|Description|
 |----|-------|----|-----------|
 <skeleton>
