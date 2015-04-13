@@ -42,7 +42,10 @@ dependencies:
 
 ### Configuration example
 
-<skeleton>
+```yaml
+elao_<skeleton>_config:
+  foo: bar
+```
 
 ## Example playbook
 
