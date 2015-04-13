@@ -46,7 +46,7 @@ dependencies:
 ### Configuration definitions
 
 |Name|Default|Type|Description|
-|----|----|-----------|-------|
+|----|-------|----|-----------|
 <skeleton>
 
 ### Configuration example
