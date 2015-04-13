@@ -60,12 +60,3 @@ MIT
 # Author information
 
 ELAO [**(http://www.elao.com/)**](http://www.elao.com)
-
-# Guidelines
-
----
-
-elao_motd_type:     elao
-elao_motd_template: ~
-elao_motd_message:  "California - 1993"
-
