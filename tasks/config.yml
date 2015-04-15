@@ -2,7 +2,7 @@
 
 - name: config > Config
   template:
-    src:  config.conf.j2
+    src:  config/config.conf.j2
     dest: /etc/<skeleton>/config.conf
   notify:
     - <skeleton> restart
